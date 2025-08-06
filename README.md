@@ -1,4 +1,4 @@
-# RentTarck
+# RentTrack
 
 RentTrack is a comprehensive Rental Management System designed to streamline the management of rental properties for landlords and tenants. It offers a simple and user-friendly interface with essential features for managing rental properties, leases, tenants, and payments.
 
